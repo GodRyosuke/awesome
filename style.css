@@ -4,3 +4,8 @@ body {
 h2 {
     color: blue;
 }
+
+.container {
+    width: 80%;
+    margin: auto;
+}
